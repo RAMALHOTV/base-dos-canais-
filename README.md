@@ -77,7 +77,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLORyellow][B][/B][/COLOR]TV [COLOR yellow]|[/COLOR] [COLOR white] ABERTOS REGIONAL [/COLOR] [COLOR yellow]|[/COLOR][COLOR lime][B] ON [/B][/COLOR]</name>
 <thumbnail>https://antenasrio.files.wordpress.com/2010/10/canais-de-tv-aberta-no-brasil-vivem-em-disputa-por-audiencia.jpg</thumbnail>
-<externallink>https://pastebin.com/1usAJ4QB</externallink>
+<externallink>https://listaiptvbrasil.com/br.m3u</externallink>
 <fanart>https://irp-cdn.multiscreensite.com/d98eed0e/dms3rep/multi/logos.png</fanart>
 <info>[COLOR yellow]|[/COLOR]- Uma Grande Variedade de Canais para você assistir! -[COLOR yellow]|[/COLOR]</info>
 </channel>
