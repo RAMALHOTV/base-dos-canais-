@@ -9,7 +9,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLORyellow][B][/B][/COLOR]TV [COLOR yellow]SERVIDOR 01 [/COLOR] [COLOR white]-[/COLOR] [COLOR yellow]|[/COLOR][COLOR lime][B]CREDITOS A DWIGHT FARROKH [/B][/COLOR]</name>
+<name>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLORyellow][B][/B][/COLOR]TV [COLOR yellow]SERVIDOR 01 [/COLOR] [COLOR white]-[/COLOR] [COLOR yellow]|[/COLOR][COLOR red][B]CREDITOS A DWIGHT FARROKH [/B][/COLOR]</name>
 <thumbnail>https://e7.pngegg.com/pngimages/406/997/png-clipart-siberian-husky-black-wolf-wall-decal-others-white-mammal.png</thumbnail>
 <externallink>https://pastebin.com/raw/HXedt4aM</externallink>
 <fanart>https://boainformacao.com.br/wp-content/uploads/2019/04/tv.png</fanart>
