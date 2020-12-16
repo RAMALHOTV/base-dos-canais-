@@ -21,7 +21,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLORyellow][B][/B][/COLOR]TV [COLOR yellow]|[/COLOR] [COLOR white]SERVIDOR-PRINCIPAL [/COLOR] [COLOR yellow]|[/COLOR][COLOR lime][B]ON [/B][/COLOR]</name>
-<thumbnail>https://image.winudf.com/v2/image1/Y29tLnJlZGUucmVkZWNhbmFpc2lwdHZfc2NyZWVuXzBfMTU3NTM3ODcwOV8wODk/screen-0.jpg?fakeurl=1&type=.jpg</thumbnail>
+<thumbnail>https://pbs.twimg.com/profile_images/2581647529/qvmz7k3lmy6e7ba65kmk_400x400.png</thumbnail>
 <externallink>https://pastebin.com/raw/Wvp8sETb</externallink>
 <fanart>https://image.winudf.com/v2/image1/Y29tLnJlZGUucmVkZWNhbmFpc2lwdHZfc2NyZWVuXzBfMTU3NTM3ODcwOV8wODk/screen-0.jpg?fakeurl=1&type=.jpg</fanart>
 <info>[COLOR yellow]|[/COLOR]- Uma Grande Variedade de Canais para você assistir! -[COLOR yellow]|[/COLOR]</info>
