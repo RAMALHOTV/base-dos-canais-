@@ -52,5 +52,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+««««««««««««««««««««««««««««««
+<channels>
+<channel>
+<name>[B][I][COLOR yellow][COLOR  white] [/COLOR]BRASIL TV [COLOR lime][COLOR white][/COLOR][/I][/B]</name>
+<thumbnail>https://i.ibb.co/d7Lx2WL/photo5967424542156633167.jpg</thumbnail>
+<fanart>https://i.ibb.co/FHXCrCN/photo5942515810604003498.jpg</fanart>
+<genre>[I][COLOR blue](BRASIL).[COLOR white] kuala [/COLOR][/I]</genre>
+<link>http://ignoreme</link>https://i.imgur.com/kzTRu2w.png
+<externallink>https://milhano.com.pt/milhano.com.pt/koala/Kuala/sub_br/SUB_BR.txt</externallink>
+</channel>
+</channels>
+««««««««««««««««««««««««««««««««
 
  
