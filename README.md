@@ -11,7 +11,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLORyellow][B][/B][/COLOR]TV [COLOR yellow]SERVIDOR  [/COLOR] [COLOR white]-[/COLOR] [COLOR yellow]|[/COLOR][COLOR red][B]SUPER LISTA [/B][/COLOR]</name>
 <thumbnail>https://e7.pngegg.com/pngimages/406/997/png-clipart-siberian-husky-black-wolf-wall-decal-others-white-mammal.png</thumbnail>
-<externallink>https://bit.ly/38JZ4JG</externallink>
+<externallink>https://pastebin.com/raw/sXhk4i0k</externallink>
 <fanart>https://boainformacao.com.br/wp-content/uploads/2019/04/tv.png</fanart>
 <info>[COLOR yellow]|[/COLOR]- Uma Grande Variedade de Canais para você assistir! -[COLOR yellow]|[/COLOR]</info>
 </channel>
