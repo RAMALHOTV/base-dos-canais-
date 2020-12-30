@@ -18,6 +18,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channel>
+<name>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLORyellow][B][/B][/COLOR]TV [COLOR yellow]|[/COLOR] [COLOR white] BRASIL TV  [/COLOR] [COLOR yellow]|[/COLOR][COLOR lime][B][/B][/COLOR]</name>
+<thumbnail>https://antenasrio.files.wordpress.com/2010/10/canais-de-tv-aberta-no-brasil-vivem-em-disputa-por-audiencia.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/fmeLtY9E</externallink>
+<fanart>https://irp-cdn.multiscreensite.com/d98eed0e/dms3rep/multi/logos.png</fanart>
+<info>[COLOR yellow]|[/COLOR]- Uma Grande Variedade de Canais para você assistir! -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
 <name>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLORyellow][B][/B][/COLOR]TV [COLOR yellow]|[/COLOR] [COLOR white]SERVIDOR-PRINCIPAL [/COLOR] [COLOR yellow]|[/COLOR][COLOR lime][B]ON [/B][/COLOR]</name>
@@ -43,16 +53,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
- <channel>
-<name>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLORyellow][B][/B][/COLOR]TV [COLOR yellow]|[/COLOR] [COLOR white] BRASIL TV  [/COLOR] [COLOR yellow]|[/COLOR][COLOR lime][B]CREDITOS AADDON kuala  [/B][/COLOR]</name>
-<thumbnail>https://antenasrio.files.wordpress.com/2010/10/canais-de-tv-aberta-no-brasil-vivem-em-disputa-por-audiencia.jpg</thumbnail>
-<externallink>https://milhano.com.pt/milhano.com.pt/koala/Kuala/sub_br/SUB_BR.txt</externallink>
-<fanart>https://irp-cdn.multiscreensite.com/d98eed0e/dms3rep/multi/logos.png</fanart>
-<info>[COLOR yellow]|[/COLOR]- Uma Grande Variedade de Canais para você assistir! -[COLOR yellow]|[/COLOR]</info>
-</channel>
-</channels>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 <channel>
 <name>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLORyellow][B][/B][/COLOR]TV [COLOR yellow]|[/COLOR] [COLOR white] LISTA IPTV BRASIL [/COLOR] [COLOR yellow]|[/COLOR][COLOR lime][B] ON [/B][/COLOR]</name>
 <thumbnail>https://antenasrio.files.wordpress.com/2010/10/canais-de-tv-aberta-no-brasil-vivem-em-disputa-por-audiencia.jpg</thumbnail>
