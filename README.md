@@ -9,10 +9,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLORyellow][B][/B][/COLOR]TV [COLOR yellow]SERVIDOR 01[/COLOR] [COLOR white]-[/COLOR] [COLOR yellow]|[/COLOR][COLOR lime][B]ON[/B][/COLOR]</name>
-<thumbnail>https://pbs.twimg.com/profile_images/2581647529/qvmz7k3lmy6e7ba65kmk_400x400.png</thumbnail>
+<name>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLORyellow][B][/B][/COLOR]TV [COLOR yellow]SERVIDOR VIP[/COLOR] [COLOR white]-[/COLOR] [COLOR yellow]|[/COLOR][COLOR lime][B]ON[/B][/COLOR]</name>
+<thumbnail>https://www.wdkx.com/wp-content/uploads/2020/07/image.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/DWIGHT-FARROKH-LISTAS/main/README.md</externallink>
-<fanart>https://biva.digital/wp-content/uploads/2020/10/Qual-e-o-melhor-site-para-ver-TV-online-gratis.png</fanart>
+<fanart>https://viptvplus.files.wordpress.com/2020/06/picsart_06-10-01.00.12.jpg</fanart>
 <info>[COLOR yellow]|[/COLOR]- Uma Grande Variedade de Canais para você assistir! -[COLOR yellow]|[/COLOR]</info>
 </channel>
 </channels>
